@@ -9,7 +9,7 @@
 
 - This bot can upload photos to telegra.ph and give you the link.🏞
 
-### Our Channels 🧾
+
 [<p align="left"><img src="https://telegra.ph/file/7156f0a83260d2873e8ba.jpg" width="100">](https://telegram.dog/Ns_bot_updates)
 
 
@@ -49,13 +49,13 @@ For creating a post in telegra.ph send any text (for adding the title speperate 
 [<p align="center">
 <img src="https://telegra.ph/file/661f584f5aecc25011d9b.jpg" width="300">](https://telegram.dog/Ns_AnoNymouS)
 
-**NAME:** 𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 <br>
+**NAME:𝘀𝘂𝗯𝗵𝗶**  <br>
 
-**Github:** [Ns-AnoNymouS](https://github.com/Ns-AnoNymouS) <br>
+**Github:** [vanshika-vikal](https://github.com/vanshikavikal/vanshikavikal) <br>
 
 **Language:** Python 🐍 <br>
 
 **Available**[<p align="center">
-<img src="https://telegra.ph/file/efdbb8c16474228e2c8de.jpg" width="50">](https://telegram.dog/Ns_AnoNymouS)
+<img src="https://telegra.ph/file/efdbb8c16474228e2c8de.jpg" width="50">](https://telegram.dog/Vanshika_Vikal)
 
 
